@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number to word converter</string>
+    <string name="convert_button">Convert</string>
+    <string name="input_description">Input number to convert</string>
+</resources>
